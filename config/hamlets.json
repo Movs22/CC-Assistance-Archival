@@ -1,0 +1,116 @@
+{
+    "maidstoke": {
+        "name": "Maidstoke",
+        "id": "A",
+        "developer": "712014894484029530",
+        "kind": "Hamlet",
+        "emoji": ":camping:",
+        "code": "MS"
+    },
+    "new-oak-common": {
+        "name": "New Oak Common",
+        "id": "B",
+        "developer": "806501286349766728",
+        "kind": "Hamlet",
+        "emoji": ":evergreen_tree:",
+        "code": "OC"
+    },
+    "stalybridge": {
+        "name": "Stalybridge",
+        "id": "C",
+        "developer": "660809172606124052",
+        "kind": "Hamlet",
+        "emoji": ":bridge_at_night:",
+        "code": "SB"
+    },
+    "honton-town": {
+        "name": "Honton Town",
+        "id": "D",
+        "developer": "653198653791535105",
+        "kind": "Hamlet",
+        "emoji": ":sunflower:",
+        "code": "HT"
+    },
+    "warham-valley": {
+        "name": "Warham Valley",
+        "id": "E",
+        "developer": "632299889388158986",
+        "kind": "Hamlet",
+        "emoji": ":mountain_snow:",
+        "code": "WV"
+    },
+    "wendom": {
+        "name": "Wendom",
+        "id": "F",
+        "developer": "896732255534338078",
+        "kind": "Hamlet",
+        "emoji": ":park:",
+        "code": "WD"
+    },
+    "havenwood": {
+        "name": "Havenwood",
+        "id": "G",
+        "developer": "955527704063639692",
+        "kind": "Hamlet",
+        "emoji": ":classical_building:",
+        "code": "HV"
+    },
+    "new-bicky": {
+        "name": "New Bicky",
+        "id": "1",
+        "developer": "856950391556276305",
+        "kind": "LV Zone",
+        "emoji": ":cookie:",
+        "code": "BK"
+    },
+    "welsemere": {
+        "name": "Welsemere",
+        "id": "2",
+        "developer": "648581213334011904",
+        "kind": "LV Zone",
+        "emoji": ":beach:",
+        "code": "WM"
+    },
+    "twinley": {
+        "name": "Twinley",
+        "id": "3",
+        "developer": "648581213334011904",
+        "kind": "LV Zone",
+        "emoji": "<:CC_sadsun:1198278158693191810>",
+        "code": "TW"
+    },
+    "terminal-2a": {
+        "name": "Terminal 2 (1)",
+        "id": "4",
+        "developer": "641623716924620800",
+        "co-developer": ["999305796900892753"],
+        "kind": "LV Zone",
+        "emoji": null,
+        "code": null
+    },
+    "terminal-2b": {
+        "name": "Terminal 2 (2)",
+        "id": "5",
+        "developer": null,
+        "kind": "LV Zone",
+        "emoji": null,
+        "code": null
+    },
+    "malburn-bridges": {
+        "name": "Malburn Bridges",
+        "id": "6",
+        "developer": null,
+        "kind": "LV Zone",
+        "emoji": null,
+        "code": null
+    },
+    "milton": {
+        "name": "Milton",
+        "id": "7",
+        "developer": "609718952020410368",
+        "kind": "LV Zone",
+        "emoji": null,
+        "code": null,
+        "invisible": true
+    }
+}

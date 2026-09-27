@@ -1,0 +1,90 @@
+{
+    "Ailsbury": {
+        "name": "Ailsbury",
+        "code": "A",
+        "governor": "692307684522852362",
+        "dissolved": false,
+        "founded": "27/06/2022",
+        "description": "Ailsbury is a village in the north-west of the map, created under the CashCraft Change Plans. It has a semi-modern building style.",
+        "features": ["Horse racecourse", "National parks", "Mountain resort"],
+        "localWood": "Acacia",
+        "localOperator": "<:CC_ailsburyconnect:1113821441327120395> Ailsbury Connect"
+    }, 
+    "Cashvillage": {
+        "name": "Cashvillage",
+        "code": "C",
+        "governor": "648581213334011904",
+        "dissolved": true,
+        "founded": "1/02/2021",
+        "description": "Cashvillage was the main village of CashCraft, where everyone, until recently, had their first house/business. It has a rustic building style with semi-modern architecture in newer areas",
+        "features": ["Shipping port", "Retail park", "Tropical island resort"],
+        "localWood": "Oak",
+        "localOperator": null
+    }, 
+    "Harlowfield": {
+        "name": "Harlowfield",
+        "code": "D",
+        "governor": "749516528696819723",
+        "dissolved": false,
+        "founded": "21/12/2023",
+        "description": "Harlowfield is the newest village on the server, located in the south-east. It was formerly a Hamlet. It follows a Victorian Rustic building style with a mix of modern architecture.",
+        "features": ["Castle museum", "University", "Areas of natural beauty"],
+        "localWood": "Birch",
+        "localOperator": null
+    }, 
+    "Hemstead": {
+        "name": "Hemstead",
+        "code": "H",
+        "governor": "740658473595043910",
+        "dissolved": false,
+        "founded": "30/08/2022",
+        "description": "Hemstead is a village located in the south, created to replace Elderville as the server's 4th village. It follows a European rustic building style, with modern European architecture in newer areas. It also features a lot of urban greenery.",
+        "features": ["Multiple parks","Olympic Sports Park","Ice-racing courses"],
+        "localWood": "Mangrove",
+        "localOperator": "<:CC_svrtotem:1063556659026329650> South Valley Railway"
+    }, 
+    "New Arbridge": {
+        "name": "New Arbridge",
+        "code": "N",
+        "governor": "610107955244826653",
+        "dissolved": false,
+        "founded": "26/01/2022",
+        "description": "New Arbridge is a village located in the eastern section of the map. It features a modern city building style, specially on the newer areas. It is responsible for a lot of innovations accross the seerver, such as street signage, NPCs...",
+        "features": ["Lore museum","Football stadium","Shopping centres"],
+        "localWood": "Birch",
+        "localOperator": "<:CC_greaterarbridge:1045075513833697331> Greater Arbridge Railway"
+    }, 
+    "Fernhill": {
+        "name": "Fernhill",
+        "code": "F",
+        "governor": "856950391556276305",
+        "dissolved": true,
+        "founded": "27/04/2022",
+        "description": "Fernhill, formerly Perrache, was a village located in the western section of the map. It was known for its spruce and deepslate style. It was completely wiped on the 15th November, following Jack's resignation. It currently is split between Hemstead and Ailsbury, with no traces of the old village left",
+        "features": ["Shopping outlet","Park","Shopping centre"],
+        "localWood": "Spruce",
+        "localOperator": null
+    }, 
+    "Elderville": {
+        "name": "Elderville",
+        "code": null,
+        "governor": "783009102623670314",
+        "dissolved": true,
+        "founded": "1/10/2021",
+        "description": "Elderville was a former village located in the south west area. It was formerly governed by NoahReijnen, until 15/6, being passed into Vex when Noah went back to his manager position. Vex stayed as a governor for about 1 month until a major border dispute occured, on the 1st of august. The entire village was reset into a mountain, being later reset again into the original, pre-Elderville terrain, to build Hemstead's western expansion.",
+        "features": [],
+        "localWood": null,
+        "localOperator": null
+    }, 
+    "Perrache": {
+        "name": "Perrache",
+        "code": null,
+        "governor": "Callum",
+        "dissolved": true,
+        "founded": "Unknown (around 2021)",
+        "description": "Perrache was a village located in the western section of the map. Its governor, together with Logic and Noah, built the first metro lines on the server which originally only served Perrache and (later) Elderville. The village passed to Arloo's hands temporarely following Callum's demotion after an election was held, with Jack winning it and becoming the new governor for Perrache (renamed to Fernhill).",
+        "features": [],
+        "localWood": null,
+        "localOperator": null
+    }
+}
